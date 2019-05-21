@@ -2,9 +2,11 @@ package com.lisek.prototype;
 
 import java.util.HashMap;
 
-public class BasicCarCashe {
+public class BasicCarCash {
 
     private static HashMap<String, BasicCar> basicCarCache = new HashMap<String, BasicCar>();
+
+    //TODO implement deep copy strategy
 
     public static BasicCar getCar(String model) {
         BasicCar basicCar = basicCarCache.get(model);

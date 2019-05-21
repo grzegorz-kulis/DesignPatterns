@@ -1,3 +1,5 @@
+package com.lisek.abstractfactorymethod;
+
 public class FactoryProducer {
 
     public static MovieFactory getFactory(String choice) throws Exception {

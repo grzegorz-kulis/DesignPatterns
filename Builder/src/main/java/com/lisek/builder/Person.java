@@ -1,3 +1,5 @@
+package com.lisek.builder;
+
 public class Person {
 
     private String lastName;
@@ -20,7 +22,7 @@ public class Person {
 
     @Override
     public String toString() {
-        return "Person{" +
+        return "com.lisek.builder.Person{" +
                 "lastName='" + lastName + '\'' +
                 ", firstName='" + firstName + '\'' +
                 ", age=" + age +

@@ -1,3 +1,5 @@
+package com.lisek.abstractfactorymethod;
+
 public class ActionMovieFactory implements MovieFactory {
 
     public HollywoodMovie getHollywoodMovie() {
