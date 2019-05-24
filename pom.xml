@@ -16,6 +16,7 @@
         <module>Builder</module>
         <module>Prototype</module>
         <module>Adapter</module>
+        <module>Bridge</module>
     </modules>
 
 
