@@ -9,6 +9,11 @@
     <version>1.0</version>
     <packaging>pom</packaging>
 
+    <properties>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+    </properties>
+
     <modules>
         <module>FactoryMethod</module>
         <module>AbstractFactoryMethod</module>
@@ -28,6 +33,7 @@
         <module>Iterator</module>
         <module>Mediator</module>
         <module>Memento</module>
+        <module>Observer</module>
     </modules>
 
 

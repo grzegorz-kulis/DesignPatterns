@@ -2,7 +2,7 @@ package com.lisek.prototype;
 
 import java.util.HashMap;
 
-public class BasicCarCash {
+public class BasicCarCashe {
 
     private static HashMap<String, BasicCar> basicCarCache = new HashMap<String, BasicCar>();
 
