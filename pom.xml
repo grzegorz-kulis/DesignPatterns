@@ -34,6 +34,9 @@
         <module>Mediator</module>
         <module>Memento</module>
         <module>Observer</module>
+        <module>State</module>
+        <module>Strategy</module>
+        <module>Template</module>
     </modules>
 
 
