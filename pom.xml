@@ -37,6 +37,7 @@
         <module>State</module>
         <module>Strategy</module>
         <module>Template</module>
+        <module>Visitor</module>
     </modules>
 
 
